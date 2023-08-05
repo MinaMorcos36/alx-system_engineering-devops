@@ -1,2 +1,2 @@
 #!/bin/bash
-root 
+echo "Effective Username: $username" 
